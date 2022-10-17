@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://www.canva.com/design/DAFPUW1K0h4/kPwbj8mrCtJjfONvxIlySQ/watch?utm_content=DAFPUW1K0h4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
 <h1 align="center">Hi 👋, I'm Pranshu Singh</h1>
