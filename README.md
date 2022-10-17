@@ -1,7 +1,9 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsgif.com%2Fgif%2F295287&psig=AOvVaw3JJ5w9wsyqyfEvNjsvCX6t&ust=1665406848388000&source=images&cd=vfe&ved=2ahUKEwiV242OmtP6AhUXQGwGHRqHC-wQjRx6BAgAEAs)]
+![logo]()
+
+
 <h1 align="center">Hi 👋, I'm Pranshu Singh</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/dcYLYSrsNAd7qEBq7">
+<img align="right" alt="Coding" width="400"  width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethird&label=Profile%20views&color=0e75b6&style=flat" alt="ethird" /> </p>
 
