@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethird&label=Profile%20views&color=0e75b6&style=flat" alt="ethird" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, Solidity,MERN**
+- 💬 Ask me about **Python, Django & React.js**
 
 - 📫 How to reach me **ethird02@gmail.com**
 
