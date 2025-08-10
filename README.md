@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethird&label=Profile%20views&color=0e75b6&style=flat" alt="ethird" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working on ** Data Science**
 
-- 💬 Ask me about **Python, Django & React.js**
+- 💬 Ask me about **Python, Django & React.js & AI**
 
-- 📫 How to reach me **ethird02@gmail.com**
+- 📫 How to reach me **pranshu.auth@gmail.com**
 
 - ⚡ Fun fact **I thinnk i am dumb/funny**
 
